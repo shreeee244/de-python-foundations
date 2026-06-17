@@ -1,6 +1,8 @@
-John,Doe,120 jefferson st.,Riverside, NJ, 08075
-Jack,McGinnis,220 hobo Av.,Phila, PA,09119
-"John ""Da Man""",Repici,120 Jefferson St.,Riverside, NJ,08075
-Stephen,Tyler,"7452 Terrace ""At the Plaza"" road",SomeTown,SD, 91234
-,Blankman,,SomeTown, SD, 00298
-"Joan ""the bone"", Anne",Jet,"9th, at Terrace plc",Desert City,CO,00123
+id,name,age,salary,department,joined_date
+1,Alice,30,75000,Engineering,2020-01-15
+2,Bob,25,68000,Marketing,2021-03-10
+3,Charlie,,72000,Engineering,
+4,David,35,,Finance,2019-07-22
+5,Alice,30,75000,Engineering,2020-01-15
+6,Eve,28,82000,,
+7,Frank,42,95000,Engineering,2018-11-01

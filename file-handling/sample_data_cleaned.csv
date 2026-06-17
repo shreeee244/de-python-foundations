@@ -1,0 +1,8 @@
+id,name,age,salary,department,joined_date
+1,Alice,30.0,75000.0,Engineering,2020-01-15
+2,Bob,25.0,68000.0,Marketing,2021-03-10
+3,Charlie,31.666666666666668,72000.0,Engineering,Unknown
+4,David,35.0,77833.33333333333,Finance,2019-07-22
+5,Alice,30.0,75000.0,Engineering,2020-01-15
+6,Eve,28.0,82000.0,Unknown,Unknown
+7,Frank,42.0,95000.0,Engineering,2018-11-01
