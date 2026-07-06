@@ -5,7 +5,7 @@ Python scripts built while learning Data Engineering from scratch.
 ## What's Inside
 
 | Folder            | Contents                            |
-|-------------------|-------------------------------------|
+|-------------------|-------------------------------------| 
 | file-handling     | CSV reading, cleaning, JSON parsing |
 | apis              | Fetching data from free public APIs |
 | data-manipulation | Pandas operations on real datasets  |
